@@ -13,8 +13,8 @@
 
 | 平台   | 插件路径                                                     | 备注                                     |
 | ------ | ------------------------------------------------------------ | ---------------------------------------- |
-| Chrome | **C:\Users\你的用户名\AppData\Local\Google\Chrome\User Data\Default\Extensions\hdokiejnpimakedhajhdlcegeplioahd\插件版本号\_locales\en_US\\** | 可以搜索hdokiejnpimakedhajhdlcegeplioahd |
-| Edge   | **C:\Users\你的用户名\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\bbcinlkgjjkejfdpemiealijmmooekmp\插件版本号\_locales\en_US** | 可以搜索bbcinlkgjjkejfdpemiealijmmooekmp |
+| Chrome | **C:\Users\你的用户名\AppData\Local\Google\Chrome\User Data\Default\Extensions\hdokiejnpimakedhajhdlcegeplioahd\插件版本号\\_locales\en_US\\** |
+| Edge   | **C:\Users\你的用户名\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\bbcinlkgjjkejfdpemiealijmmooekmp\插件版本号\\_locales\en_US** |
 
 ### 备注
 
