@@ -13,7 +13,7 @@
 - [Edge插件](https://microsoftedge.microsoft.com/addons/detail/bbcinlkgjjkejfdpemiealijmmooekmp?hl=zh-CN)
 
 2. 下载仓库中[messages.json](https://github.com/yaronzz/Lastpass-CN/blob/master/messages.json)文件
-3. 在插件安装目录下的_locales目录下新建zh_CN的目录，把messages.json文件放置在这个目录下
+3. 在插件安装目录下的_locales目录下新建zh_CN的目录，把messages.json文件放置在这个目录下  
 
 | 平台   | 插件路径                                                     |
 | ------ | ------------------------------------------------------------ |
